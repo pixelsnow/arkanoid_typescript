@@ -1,0 +1,60 @@
+body
+{
+	position: relative;
+	
+	display: flex;
+	flex-direction: column;
+	
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	
+	font-family: Helvetica, Sans-Serif;
+}
+
+body > main
+{
+	display: flex;
+	overflow: auto;
+	flex-grow: 1
+}
+
+body > main > canvas
+{
+	display: block;
+	margin: auto;
+	border-bottom: 1px;
+	box-shadow: 0 0px 3px #333333;
+}
+
+header > p
+{
+	display: inline-block;
+}
+
+#info
+{
+	display:block;;
+	margin: auto;
+	width: 600px;
+	padding: 20;
+	text-align: center;
+}
+
+#scoreline
+{
+	float:right;
+}
+
+#score
+{
+	font-size: 40px;
+	color: #333333;
+}
+
+#lives
+{
+	float:left;
+	color: #e04f35;
+	font-size: 40px;
+}
