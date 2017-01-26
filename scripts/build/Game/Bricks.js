@@ -23,7 +23,7 @@ define(["require", "exports", "./Brick", "./Constants"], function (require, expo
             var brickW = (Constants_1.WIDTH - Constants_1.PADDING * 2) / 6;
             var brickH = Constants_1.PADDING * 2;
             var i;
-            for (i = 0; i < 3; i++) {
+            for (i = 0; i < 24; i++) {
                 this.pattern[i] = new Brick_1.default(Constants_1.PADDING + (i % 6) * brickW + brickW / 2, Constants_1.PADDING + (Math.floor(i / 6)) * brickH + brickH / 2, brickH - 8, brickW - 8, 4 - Math.floor(i / 6));
             }
         };
