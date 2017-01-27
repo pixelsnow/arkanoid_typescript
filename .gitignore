@@ -11,3 +11,6 @@ build/node_modules
 
 # Optional npm cache directory
 .npm
+
+# Visual Studio Code settings
+.vscode
