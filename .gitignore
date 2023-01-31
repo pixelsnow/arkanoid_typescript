@@ -1,16 +1,4 @@
-# Logs
-logs
-*.log
-
-# Compiled binary
 build
-
-# Dependency directories
 node_modules
-build/node_modules
-
-# Optional npm cache directory
-.npm
-
-# Visual Studio Code settings
 .vscode
+.DS_Store

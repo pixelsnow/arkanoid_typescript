@@ -1,15 +1,15 @@
 {
-	"compilerOptions": {
-		"module": "amd",
-		"target": "es5",
-		"noImplicitAny": true,
-		"noImplicitReturns": true,
-		"noImplicitThis": true,
-		"strictNullChecks": true,
-		"outDir": "../build",
-		"sourceMap": true
-	},
-	"files": [
-        "./src/index.ts"
-    ]
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "outDir": "./scripts/build",
+    "rootDir": "./scripts/src",
+    "sourceMap": true,
+    "removeComments": true
+  },
+  "files": ["./scripts/src/index.ts"]
 }
