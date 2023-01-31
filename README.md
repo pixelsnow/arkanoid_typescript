@@ -1,6 +1,6 @@
 # arkanoid
 
-A simple HTML5 canvas game built using typescript.
+A simple HTML5 canvas game built using Typescript in January 2017.
 
 ## How to run
  - Checkout the project and CD into it
