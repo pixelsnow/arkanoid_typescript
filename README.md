@@ -2,7 +2,7 @@
 
 A simple HTML5 canvas game built using Typescript in January 2017.
 
-![Screenshot](screenshot2.png)
+![Screenshot](screenshot.png)
 
 ## How to run
  - Checkout the project and CD into it
