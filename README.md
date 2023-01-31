@@ -1,6 +1,6 @@
 # arkanoid
 
-![Screenshot](screenshot2.png)
+![Screenshot](screenshot.png)
 
 A simple HTML5 canvas game built using Typescript in January 2017.
 
