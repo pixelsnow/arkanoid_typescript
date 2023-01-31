@@ -1,8 +1,8 @@
-# arkanoid
-
-![Screenshot](screenshot2.png)
+# Arkanoid
 
 A simple HTML5 canvas game built using Typescript in January 2017.
+
+![Screenshot](screenshot2.png)
 
 ## How to run
  - Checkout the project and CD into it
