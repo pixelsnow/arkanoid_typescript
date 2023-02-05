@@ -1,6 +1,6 @@
 # Arkanoid
 
-A simple HTML5 canvas game built using Typescript in January 2017 using object-oriented approach.
+A simple HTML5 canvas game built with Typescript using object-oriented approach (January 2017).
 
 ![Screenshot](screenshot.png)
 
