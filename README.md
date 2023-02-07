@@ -5,7 +5,7 @@ A simple HTML5 canvas game built with Typescript using object-oriented approach 
 ![Screenshot](screenshot.png)
 
 ## How to run
- - Checkout the project and CD into it
+ - `cd` into the project directory
  - run `npm install` to get all dependencies
  - run `tsc` to compile the app
- - Open index.html file with web browser of your choise
+ - Open index.html file with web browser of your choice
